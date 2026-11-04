@@ -7,5 +7,5 @@ static void PrintMe(string s)
 
 // See https://aka.ms/new-console-template for more information
 PrintMe("Hello");
-PrintMe("Added branch Feature");
+PrintMe("Added branch Feature navn i main branch");
 
