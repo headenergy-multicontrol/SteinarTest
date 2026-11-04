@@ -9,3 +9,6 @@ static void PrintMe(string s)
 PrintMe("Hello");
 PrintMe("Added branch Feature");
 
+PrintMe("Hello again");
+PrintMe("Added second branch feature");
+
